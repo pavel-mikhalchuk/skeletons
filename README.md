@@ -1,0 +1,4 @@
+skeletons
+=========
+
+Project Skeletons
